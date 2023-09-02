@@ -19,6 +19,6 @@ The training commands are detailed in the individual run.sh files in the models.
 
 ## Results：
 
-Performance of 5 methods on 3 scales of **UniKG**:
+Performances of 5 methods on 3 scales of **UniKG**:
 
 ![Alt](./performance_5methods_3datasets.png)
