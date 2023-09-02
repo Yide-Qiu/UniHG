@@ -14,7 +14,7 @@ See preprocessing for more details on our processing strategy.
 
 ## Training:
 
-We use the official implementations of **OGB** from **SAGN**, **SIGN**, **GAMLP**, **SGC**, **MLP**.
+We use the official implementations of **SAGN**, **SIGN**, **GAMLP**, **SGC**, **MLP** from **OGB**.
 The training commands are detailed in the individual run.sh files in the models.
 
 ## Results:
