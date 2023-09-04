@@ -15,7 +15,7 @@ See preprocessing for more details on our processing strategy.
 ## Datasets:
 
 ### UniKG-1M:
-This is the smallest version (489.7MB × 5) of **UniKG**. It has 1,002,988 nodes and 24,475,405 edges. We have provided its 5-hop feature propagation matrixes to facilitate learning using decoupled graph neural networks. You can find **UniKG-1M** at [link](https://pan.quark.cn/s/498e7d1f60d3).
+This is the smallest version (489.7MB × 5) of **UniKG**. It has 1,002,988 nodes and 24,475,405 edges. We have provided its 5-hop feature propagation matrixes to facilitate learning using decoupled graph neural networks. You can find **UniKG-1M** at [link](https://pan.quark.cn/s/fcf6c2ae7554).
 
 ### UniKG-10M:
 This is a medium-sized version (4.79GB × 5) of **UniKG**. It has 10,044,777 nodes and 216,295,022 edges. Related resources are being released.
