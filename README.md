@@ -17,6 +17,9 @@ torch-sparse                  0.6.17
 torch-spline-conv             1.2.2
 networkx                      3.1
 ogb                           1.3.6
+nltk                          3.8.1
+cupy                          12.2.0
+
 ```
 
 ## Preprocessing:
