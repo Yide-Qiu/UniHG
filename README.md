@@ -1,4 +1,4 @@
-# UniKG
+# UniHG
 
 This is the official implementation of the paper **UniHG: A Benchmark and Universal Embedding for Large-Scale Heterogeneous Graphs**.
 
@@ -67,8 +67,8 @@ Training time statistics of baselines for multi-label node classification. We re
 
 # Reference
 ```
-@article{qiu2023unikg,
-  title={UniKG: A Benchmark and Universal Embedding for Large-Scale Knowledge Graphs},
+@article{qiu2023unihg,
+  title={UniHG: A Benchmark and Universal Embedding for Large-Scale Heterogeneous Graphs},
   author={Qiu, Yide and Ling, Shaoxiang and Zhang, Tong and Huang, Bo and Cui, Zhen},
   journal={arXiv preprint arXiv:2309.05269},
   year={2023}
