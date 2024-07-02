@@ -57,9 +57,9 @@ Results of knowledge transfer experiments on recommendation system:
 
 ![results_of_knowledge_transfer_experiments](./figs/results_of_knowledge_transfer_experiments.png)
 
-Results of the ablation experiments on **UniHG-1M**, **UniHG-10M**, and **UniHG-full**.:
+Results of the ablation experiments on **UniHG-1M**, **UniHG-10M**, and **UniHG-full**. '-AFP' means 'using the feature of Anisotropic Feature Propagation'.
 
-![](./figs/results_of_ablation%20experiments.png)
+![](./figs/ablation.png)
 
 Training time statistics of baselines for multi-label node classification. We report the time for training each **1M nodes.* (Low is faster)
 
