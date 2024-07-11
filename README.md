@@ -50,19 +50,14 @@ We have mapped the overall flow of the composition, see Fig:
 ![Alt](./figs/construct_graph.png)
 
 ## Training:
-
-We use the official implementations of **SAGN**, **SIGN**, **GAMLP**, **SGC**, **MLP** from **OGB**.
+Further, in order to efficiently learn complex representations of UniHG, we propose a new representation learning framework **HGD** (Heterogeneous Graph Decoupling Framework). To evaluate the effectiveness of **HGD**, we compare other sampling-based convolutional type graph neural networks (**GCN**, **HAN**, **HGT**) and decoupling-based graph neural networks (**SGC**, **SIGN**, **GAMLP**) on three sizes of UniHG datasets. We used official implementations of these methods.
 The training commands are detailed in the individual run.sh files in the models.
 
 ## Results:
 
-Performances of 5 methods on 3 scales of **UniHG**:
-
-![Alt](./figs/performance_5methods_3datasets.png)
-
 Results of comparison experiments on **UniHG-1M**, **UniHG-10M**, and **UniHG-full**:
 
-![Alt](./figs/results_of_comparison_experiments.png)
+![Alt](./figs/comparison_experiment.png)
 
 Results of knowledge transfer experiments on recommendation system:
 
