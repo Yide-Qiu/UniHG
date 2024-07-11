@@ -31,7 +31,7 @@ We use the **JSON** version of all wikidata data from June 23, 2023 to form our 
 See preprocessing for more details on our processing strategy.
 
 ## Datasets:
-UniHG is a universal dataset compared to other isolated datasets. This means that there are "bridges" in UniHG that connect these encouraged datasets. Naturally, UniHG also has more types of nodes and edges. The visualization of the generic dataset is illustrated in the figure below:
+UniHG is a universal dataset compared to other isolated datasets. This means that there are "bridges" in UniHG that connect these isolated datasets. Naturally, UniHG also has more types of nodes and edges. The visualization of the generic dataset is illustrated in the figure below:
 ![Alt](./figs/diff.png)
 We further evaluated UniHG using multiple metrics, as visualized in the following figure:
 ![Alt](./figs/metirc.png)
