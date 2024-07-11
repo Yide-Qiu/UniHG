@@ -34,7 +34,7 @@ See preprocessing for more details on our processing strategy.
 UniHG is a universal dataset compared to other isolated datasets. This means that there are "bridges" in UniHG that connect these isolated datasets. Naturally, UniHG also has more types of nodes and edges. The visualization of the generic dataset is illustrated in the figure below:
 ![Alt](./figs/diff.png)
 We further evaluated UniHG using multiple metrics, as visualized in the following figure:
-![Alt](./figs/metirc.png)
+![Alt](./figs/metric.png)
 
 ### UniHG-1M:
 This is the smallest version (489.7MB × 5) of **UniHG**. It has 1,002,988 nodes and 24,475,405 edges. We have provided its 5-hop feature propagation matrixes to facilitate learning using decoupled graph neural networks. You can find **UniHG-1M** at [link](https://pan.quark.cn/s/fcf6c2ae7554).
