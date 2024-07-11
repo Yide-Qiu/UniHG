@@ -21,6 +21,9 @@ nltk                          3.8.1
 cupy                          12.2.0
 
 ```
+## Pipeline
+This work focuses on constructing the largest universal domain heterogeneous graph available and effectively learning its representation as well as transferring the universal knowledge to other downstream graph task. The overall task pipeline is shown below:
+![Alt](./figs/pipeline.png)
 
 ## Preprocessing:
 
@@ -28,6 +31,10 @@ We use the **JSON** version of all wikidata data from June 23, 2023 to form our 
 See preprocessing for more details on our processing strategy.
 
 ## Datasets:
+UniHG is a universal dataset compared to other isolated datasets. This means that there are "bridges" in UniHG that connect these encouraged datasets. Naturally, UniHG also has more types of nodes and edges. The visualization of the generic dataset is illustrated in the figure below:
+![Alt](./figs/diff.png)
+We further evaluated UniHG using multiple metrics, as visualized in the following figure:
+![Alt](./figs/metirc.png)
 
 ### UniHG-1M:
 This is the smallest version (489.7MB × 5) of **UniHG**. It has 1,002,988 nodes and 24,475,405 edges. We have provided its 5-hop feature propagation matrixes to facilitate learning using decoupled graph neural networks. You can find **UniHG-1M** at [link](https://pan.quark.cn/s/fcf6c2ae7554).
@@ -37,6 +44,10 @@ This is a medium-sized version (4.79GB × 5) of **UniHG**. It has 10,044,777 nod
 
 ### UniHG-Full:
 This is the largest version (36.87GB × 5) of **UniHG**. It has 77,312,474 nodes and 641,738,096 edges. Related resources are being released.
+
+## How to construct UniHG?
+We have mapped the overall flow of the composition, see Fig:
+![Alt](./figs/construct_graph.png)
 
 ## Training:
 
@@ -63,7 +74,7 @@ Results of the ablation experiments on **UniHG-1M**, **UniHG-10M**, and **UniHG-
 
 Training time statistics of baselines for multi-label node classification. We report the time for training each **1M nodes.* (Low is faster)
 
-![](./figs/crop_methods_time.png)
+![](./figs/time.png)
 
 # Reference
 ```
