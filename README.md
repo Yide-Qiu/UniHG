@@ -40,10 +40,10 @@ We further evaluated UniHG using multiple metrics, as visualized in the followin
 This is the smallest version (489.7MB × 5) of **UniHG**. It has 1,002,988 nodes and 24,475,405 edges. We have provided its 5-hop feature propagation matrixes to facilitate learning using decoupled graph neural networks. You can find **UniHG-1M** at [link](https://pan.quark.cn/s/fcf6c2ae7554).
 
 ### UniHG-10M:
-This is a medium-sized version (4.79GB × 5) of **UniHG**. It has 10,044,777 nodes and 216,295,022 edges. Related resources are being released.
+This is a medium-sized version (4.79GB × 5) of **UniHG**. It has 10,044,777 nodes and 216,295,022 edges. You can find **UniHG-10M** at [link](https://pan.quark.cn/s/128a3c656005).
 
 ### UniHG-Full:
-This is the largest version (36.87GB × 5) of **UniHG**. It has 77,312,474 nodes and 641,738,096 edges. Related resources are being released.
+This is the largest version (36.87GB × 5) of **UniHG**. It has 77,312,474 nodes and 641,738,096 edges. You can find **UniHG-Full** at [link](https://pan.quark.cn/s/252cf3117451).
 
 ## How to construct UniHG?
 We have mapped the overall flow of the composition, see Fig:
