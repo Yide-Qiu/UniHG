@@ -1,0 +1,108 @@
+[
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "apple", "orange", "banana", "grape", "peach", "kiwi", "mango", "pineapple", "watermelon", "blueberry",
+        "strawberry", "raspberry", "blackberry", "pear", "plum", "cherry", "apricot", "nectarine", "fig", "date",
+        "pomegranate", "lime", "lemon", "grapefruit", "melon", "cantaloupe", "honeydew", "tangerine", "clementine",
+        "mandarin", "kumquat", "passionfruit", "dragonfruit", "papaya", "guava", "lychee", "rhubarb", "persimmon",
+        "plantain", "quince", "starfruit"
+      ]
+    },
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "dog", "cat", "rabbit", "hamster", "guinea pig", "ferret", "gerbil", "hedgehog", "chinchilla", "mouse",
+        "rat", "squirrel", "parrot", "canary", "finch", "cockatiel", "budgerigar", "lovebird", "macaw", "cockatoo",
+        "conure", "dove", "pigeon", "turtle", "tortoise", "snake", "lizard", "gecko", "frog", "newt", "axolotl",
+        "crab", "shrimp", "fish", "starfish", "octopus", "sea urchin", "seahorse", "jellyfish", "clam", "mussel",
+        "oyster", "scallop"
+      ]
+    },
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "table", "chair", "sofa", "bed", "desk", "cabinet", "shelf", "dresser", "armchair", "recliner",
+        "ottoman", "stool", "bench", "nightstand", "wardrobe", "bookcase", "console", "hutch", "vanity", "buffet",
+        "sideboard", "entertainment center", "TV stand", "coffee table", "end table", "kitchen island", "barstool",
+        "bean bag", "chaise lounge", "futon", "love seat", "rocking chair", "gaming chair", "pouffe", "beanbag chair",
+        "console table", "hallway table", "loft bed", "platform bed", "canopy bed"
+      ]
+    },
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "car", "truck", "bus", "motorcycle", "bicycle", "scooter", "van", "SUV", "convertible", "coupe",
+        "hatchback", "sedan", "limousine", "pickup truck", "minivan", "wagon", "off-road vehicle", "sports car",
+        "electric car", "hybrid car", "luxury car", "roadster", "station wagon", "compact car", "subcompact car",
+        "microcar", "minicar", "cross-over", "all-terrain vehicle", "go-kart", "tractor", "trailer", "recreational vehicle"
+      ]
+    },
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "rose", "tulip", "sunflower", "lily", "daisy", "orchid", "lily of the valley", "peony", "violet", "marigold",
+        "geranium", "pansy", "zinnia", "hydrangea", "begonia", "chrysanthemum", "dandelion", "lavender", "lotus",
+        "hibiscus", "petunia", "snapdragon", "carnation", "camellia", "rhododendron", "azalea", "jasmine", "magnolia",
+        "passionflower", "dahlia", "aster", "bluebell", "poppy", "gladiolus"
+      ]
+    },
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "pencil", "pen", "marker", "crayon", "chalk", "highlighter", "colored pencil", "fountain pen", "gel pen",
+        "ballpoint pen", "mechanical pencil", "eraser", "sharpener", "pastel", "charcoal", "watercolor pencil",
+        "fine liner", "brush pen", "calligraphy pen", "whiteboard marker", "dry-erase marker", "colored marker",
+        "texta marker", "metal pen", "stylus", "felt-tip pen", "drawing pen", "calligraphy brush", "paintbrush",
+        "sketch pen", "ball pen", "retractable pen", "click pen"
+      ]
+    },
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "pizza", "burger", "hot dog", "sandwich", "taco", "burrito", "wrap", "nachos", "quesadilla", "fajitas",
+        "falafel", "gyro", "shawarma", "spring roll", "dumpling", "samosa", "egg roll", "panini", "submarine sandwich",
+        "hoagie", "club sandwich", "croissant", "bagel", "flatbread", "calzone", "stromboli", "empanada", "pierogi",
+        "bun", "pita", "roti", "tortilla", "naan", "paratha", "chapati", "pita bread"
+      ]
+    },
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "soccer", "basketball", "baseball", "hockey", "football", "tennis", "golf", "volleyball", "rugby", "cricket",
+        "badminton", "table tennis", "swimming", "cycling", "running", "boxing", "wrestling", "gymnastics", "karate",
+        "judo", "taekwondo", "fencing", "archery", "skiing", "snowboarding", "surfing", "skateboarding", "canoeing",
+        "kayaking", "rowing", "triathlon", "equestrian", "climbing", "horse racing", "motor racing", "speed skating",
+        "luge", "bobsleigh"
+      ]
+    },
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "tablet", "laptop", "smartphone", "smartwatch", "desktop computer", "e-reader", "smart TV", "digital camera",
+        "video game console", "printer", "scanner", "router", "modem", "headphones", "microphone", "webcam", "keyboard",
+        "mouse", "external hard drive", "USB drive", "flash drive", "CD player", "DVD player", "Blu-ray player",
+        "projector", "smart speaker", "voice assistant", "VR headset", "AR glasses", "fitness tracker", "drone",
+        "smart thermostat", "security camera", "smart lock"
+      ]
+    },
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "shampoo", "conditioner", "body wash", "soap", "facial cleanser", "toothpaste", "mouthwash", "deodorant",
+        "lotion", "sunscreen", "moisturizer", "serum", "face mask", "exfoliator", "toner", "eye cream", "hand cream",
+        "foot cream", "hair gel", "hair spray", "hair mousse", "hair dye", "shaving cream", "aftershave", "bath oil",
+        "bubble bath", "body scrub", "lip balm", "hand sanitizer", "makeup remover", "cleanser", "face wash", "face oil"
+      ]
+    },
+    {
+      "question": "Please help me generate a high-level semantic label.",
+      "low_level_labels": [
+        "shirt", "blouse", "t-shirt", "sweater", "cardigan", "jacket", "coat", "vest", "hoodie", "sweatshirt",
+        "tank top", "long sleeve shirt", "short sleeve shirt", "polo shirt", "dress shirt", "suit jacket", "blazer",
+        "raincoat", "windbreaker", "fleece jacket", "parka", "trench coat", "anorak", "cape", "kimono", "tunics",
+        "sari", "kaftan", "pashmina", "shawl", "wrap", "poncho", "overalls", "jumpsuit", "romper"
+      ]
+    }
+]
+  
