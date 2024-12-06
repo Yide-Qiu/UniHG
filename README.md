@@ -71,15 +71,7 @@ Training time statistics of baselines for multi-label node classification. We re
 
 ![](./figs/time.png)
 
-# Reference
-```
-@article{qiu2023unihg,
-  title={UniHG: A Benchmark and Universal Embedding for Large-Scale Heterogeneous Graphs},
-  author={Qiu, Yide and Ling, Shaoxiang and Zhang, Tong and Huang, Bo and Cui, Zhen},
-  journal={arXiv preprint arXiv:2309.05269},
-  year={2023}
-}
-```
+
 # License
 ```
 MIT
