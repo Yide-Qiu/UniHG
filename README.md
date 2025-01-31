@@ -1,6 +1,6 @@
 # UniHG
 
-This is the official implementation of the paper **UniHG: A Benchmark and Universal Embedding for Large-Scale Heterogeneous Graphs**.
+This is the official implementation of the paper **UniHG: A Large-scale Universal Heterogeneous Graph Dataset and Benchmark for Representation Learning and Cross-Domain Transferring**.
 
 ## Requirements:
 ```
