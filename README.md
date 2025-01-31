@@ -23,11 +23,12 @@ cupy                          12.2.0
 ```
 ## Pipeline
 This work focuses on constructing the largest universal domain heterogeneous graph available and effectively learning its representation as well as transferring the universal knowledge to other downstream graph task. The overall task pipeline is shown below:
+
 ![Alt](./figs/pipeline.png)
 
 ## Preprocessing:
 
-We use the **JSON** version of all wikidata data from June 23, 2023 to form our dataset.
+We use the **JSON** version of all wikidata data from October 23, 2024 to form our dataset.
 See preprocessing for more details on our processing strategy.
 
 ## Datasets:
