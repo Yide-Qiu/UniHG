@@ -9,7 +9,7 @@ numpy                         1.21.5
 optuna                        3.5.0
 scikit-learn                  1.0.2
 scipy                         1.7.3
-dgl                           1.1.1+cu113
+dgl                           1.1.1+cu117
 torch-cluster                 1.6.1
 torch-geometric               2.3.1
 torch-scatter                 2.1.1
