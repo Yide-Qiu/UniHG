@@ -2,6 +2,10 @@
 
 This is the official implementation of the paper **UniHG: A Large-scale Universal Heterogeneous Graph Dataset and Benchmark for Representation Learning and Cross-Domain Transferring**.
 
+## Dataset Link:
+
+https://yide-qiu.github.io/Pages_UniHG_Dataset/
+
 ## Requirements:
 ```
 torch                         2.0.1+cu117
