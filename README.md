@@ -90,10 +90,6 @@ Results of the ablation experiments on **UniHG-1M**, **UniHG-10M**, and **UniHG-
 
 ![](./figs/ablation.png)
 
-Training time statistics of baselines for multi-label node classification. We report the time for training each **1M nodes.* (Low is faster)
-
-![](./figs/time.png)
-
 
 # 📜 Citation
 
