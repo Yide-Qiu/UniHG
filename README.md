@@ -69,7 +69,7 @@ We further evaluated UniHG using multiple metrics, as visualized in the followin
 ![Alt](./figs/metric.png)
 
 ## How to construct UniHG?
-We have mapped the overall flow of the composition, see Fig:
+We have mapped the overall flow of the composition:
 ![Alt](./figs/construct_graph.png)
 
 ## Training:
