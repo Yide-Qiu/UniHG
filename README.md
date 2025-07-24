@@ -15,10 +15,6 @@
 ✅ **Novel Framework**  
 HGD with Anisotropic Feature Propagation (AFP)
 
-# 📚 UniHG Introduction
-
-https://yide-qiu.github.io/Pages_UniHG_Dataset/
-
 # 🛠️ Quick Start
 
 ## Requirements:
