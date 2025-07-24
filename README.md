@@ -5,6 +5,10 @@
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
 
+# 📚 UniHG Introduction
+
+https://yide-qiu.github.io/Pages_UniHG_Dataset/
+
 # 🚀 Highlights
 ✅ **Largest Universal Heterogeneous Graph Dataset**  
 77.31M nodes | 564M edges | 2,082 relation types | 74K+ labels  
