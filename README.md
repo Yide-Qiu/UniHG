@@ -2,7 +2,7 @@
 
 *Official implementation of "[UniHG: A Large-scale Universal Heterogeneous Graph Dataset and Benchmark for Representation Learning and Cross-Domain Transfering](https://anonymous.4open.science/r/UniHG-AA78)"*
 
-🎉 Congratulate our work has been accepted to NIPS 2025. 
+## 🎉 Congratulation! This work has been accepted to NIPS 2025 (Datasets and Benchmarks Track). 
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
