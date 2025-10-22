@@ -2,6 +2,8 @@
 
 *Official implementation of "[UniHG: A Large-scale Universal Heterogeneous Graph Dataset and Benchmark for Representation Learning and Cross-Domain Transfering](https://anonymous.4open.science/r/UniHG-AA78)"*
 
+🎉 Congratulate our work has been accepted to NIPS 2025. 
+
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
 
@@ -94,8 +96,8 @@ Results of the ablation experiments on **UniHG-1M**, **UniHG-10M**, and **UniHG-
 # 📜 Citation
 
 @article{unihg2025,
-  title={UniHG: A Large-scale Universal Heterogeneous Graph Dataset and Benchmark for Representation Learning and Cross-Domain Transfering},
-  author={Anonymous Authors},
-  journal={Under Review},
+  title={UniHG: A Large-scale Universal Heterogeneous Graph Dataset and Benchmark for Representation Learning and Cross-Domain Transferring},
+  author={Yide Qiu, Tong Zhang, Shaoxiang Ling, Xing Cai, Ziqi Gu, Zhen Cui},
+  journal={Neural Information Processing Systems},
   year={2025}
 }
